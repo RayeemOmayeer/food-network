@@ -58,6 +58,7 @@ p{
 }
 .my-recipies{
   margin: 6.5%;
+  margin-left: 170px;
 }
 .my-recipies-title{
   padding-top: 80px;
@@ -71,10 +72,28 @@ p{
 .item-card{
   box-shadow: 0 0 10px rgba(223, 222, 222, 0.842);
   border-radius: 20px;
-  width: 25%;
+  width: 27%;
   margin: 20px;
   padding: 10px;
 }
 .card-item-img{
   width: 300px;
+}
+
+.subscribers{
+  box-shadow: 0 0 10px rgba(223, 222, 222, 0.849);
+  display: flex;
+  margin: 150px;
+  margin-left: 190px;
+  border-radius: 20px;
+}
+
+.subscribers-item{
+  padding-right: 110px;
+  padding-left: 110px;
+}
+
+.black{
+  color: black;
+  font-family: 'Montserrat',sans-serif;
 }
