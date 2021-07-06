@@ -86,6 +86,7 @@ p{
   margin: 150px;
   margin-left: 190px;
   border-radius: 20px;
+  margin-bottom: 100px;
 }
 
 .subscribers-item{
@@ -96,4 +97,16 @@ p{
 .black{
   color: black;
   font-family: 'Montserrat',sans-serif;
+}
+footer{
+  background: rgb(4, 1, 15);
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 100px;
+}
+.footer-des{
+  font-size: 0.8em;
+}
+.footer-heading{
+  font-size: 1.5em;
 }
