@@ -61,7 +61,6 @@ p{
   margin-left: 170px;
 }
 .my-recipies-title{
-  padding-top: 80px;
   text-align: center;
 }
 
@@ -83,15 +82,17 @@ p{
 .subscribers{
   box-shadow: 0 0 10px rgba(223, 222, 222, 0.849);
   display: flex;
-  margin: 150px;
+  margin-right: 150px;
   margin-left: 190px;
   border-radius: 20px;
   margin-bottom: 100px;
 }
 
 .subscribers-item{
-  padding-right: 110px;
-  padding-left: 110px;
+  padding: 10px 110px;
+}
+.subscribers-p{
+  font-size: 0.8em;
 }
 
 .black{
@@ -106,6 +107,7 @@ footer{
 }
 .footer-des{
   font-size: 0.8em;
+  color: rgb(170, 170, 170);
 }
 .footer-heading{
   font-size: 1.5em;
