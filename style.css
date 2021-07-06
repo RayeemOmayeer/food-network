@@ -24,8 +24,8 @@ p{
   text-decoration: none;
   color: white;
   font-size: 12px;
-  border-radius: 20px;
-  padding: 12px 22px;
+  border-radius: 25px;
+  padding: 15px 27px;
   background-image: linear-gradient(to left, #fc441b, #f78d36);
 }
 .home{
@@ -55,4 +55,26 @@ p{
 .about-me-text{
   margin-top: 100px;
   margin-left: 80px;
+}
+.my-recipies{
+  margin: 6.5%;
+}
+.my-recipies-title{
+  padding-top: 80px;
+  text-align: center;
+}
+
+.menu{
+  display: flex;
+  width: 100%;
+}
+.item-card{
+  box-shadow: 0 0 10px rgba(223, 222, 222, 0.842);
+  border-radius: 20px;
+  width: 25%;
+  margin: 20px;
+  padding: 10px;
+}
+.card-item-img{
+  width: 300px;
 }
